@@ -1,5 +1,5 @@
 {
-  "name": "CodeEdge-client",
+  "name": "codeedge-client",
   "description": "This is the client side of the CodeEdge App",
   "version": "0.1.0",
   "private": true,
