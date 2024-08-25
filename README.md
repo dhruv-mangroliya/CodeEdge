@@ -2,8 +2,6 @@
 # CodeEdge - EdTech Coding Platform
 :rocket: [Link to website][https://codeedge-frontend.vercel.app/]
 
-
-![Main Page](images/mainpage.png)
 CodeEdge is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
